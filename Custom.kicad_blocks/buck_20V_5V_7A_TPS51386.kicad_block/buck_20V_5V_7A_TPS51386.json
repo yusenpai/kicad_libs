@@ -1,0 +1,5 @@
+{
+"description": "A buck dc-dc converter that convert 4.5V - 20V to 5V with continous 7A of current.",
+"keywords": "buck TPS51386",
+"fields": {}
+}
