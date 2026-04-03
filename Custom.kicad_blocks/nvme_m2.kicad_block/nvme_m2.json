@@ -1,0 +1,5 @@
+{
+"description": "An M.2 connector with PCIe x4, used for NVMe SSD",
+"keywords": "nvme m2 ssd",
+"fields": {}
+}

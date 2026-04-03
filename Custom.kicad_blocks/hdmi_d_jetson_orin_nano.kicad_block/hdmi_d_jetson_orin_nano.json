@@ -1,0 +1,5 @@
+{
+"description": "A HDMI connector circuit that contain a HDMI companion chip and additional circuitry for Jetson Orin Nano",
+"keywords": "hdmi jetson",
+"fields": {}
+}
